@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f4f4f4;
+}
+
+#main {
+  padding: 20px;
+}
+
+#img-div {
+  background: white;
+  padding: 20px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin-top: 10px;
+}
+
+#tribute-info {
+  margin: 20px auto;
+  max-width: 800px;
+  line-height: 1.6;
+}
+
+#tribute-link {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
